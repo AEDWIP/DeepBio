@@ -16,5 +16,3 @@ requirements.txt is a list of python packages. Y
 
 
 ## nanoPoreSpectrogram.ipynb TODO:
-1. bug downloading fast5 file
-2. double check spectorgram
