@@ -45,7 +45,7 @@ To terminate the juypter server on unix enter "cntrl c"
     * nfft should probably be the expected length of a segments and maybe use a 50% window overlap?
     * We can use pad_to to define range of frequence we want calculated. ie [0 ... number of kmers]. 
     * [matplotlib.pyplot.specgram](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.specgram.html)
-* do we get a more one hot encoding if we filter before running FFT? I.E. space vector of frequencies.
+* do we get a more sparse like representation if we filter before running FFT? I.E. space vector of frequencies.
 
 
 ### Model  TODO:
